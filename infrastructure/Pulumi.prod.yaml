@@ -9,7 +9,7 @@ config:
   cst8918-a03-infra:imageTag: 'v0.1.0'
   cst8918a03infra:appPath: ../
   cst8918a03infra:prefixName: cst8918a03shak0039
-  cst8918a03infra:imageTag: v0.2.0
+  cst8918a03infra:imageTag: v0.3.0
   cst8918a03infra:containerPort: "80"
   cst8918a03infra:publicPort: "80"
   cst8918a03infra:cpu: "1"
