@@ -14,3 +14,6 @@ config:
   cst8918a03infra:publicPort: "80"
   cst8918a03infra:cpu: "1"
   cst8918a03infra:memory: "2"
+  cst8918a03infra:weatherApiKey:
+    secure: AAABAHLCvmP8a06+uBfoFIVR4fkuveFK/9d9ynh6U7u7ihEX6p6yEK1cP1XulsjkbaHrXJGG3Q5+FabZhsXR8A==
+  cst8918a03-infra:prefixName: cst8918a03shak0039-rg
